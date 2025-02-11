@@ -2,3 +2,6 @@ https://www.figma.com/deck/SQEwQPiwfAlmoAbvkGalbs/Untitled?node-id=2-267&t=SsY8X
 
 
 https://www.cbr-xml-daily.ru/daily_json.js
+
+
+7576488338:AAEJozXKgJiKcqKIsHaeUK0layg3C95zvV4
